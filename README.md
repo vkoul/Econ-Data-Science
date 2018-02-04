@@ -1,7 +1,7 @@
 
-# Economics and Data Science/ Machine Learning
+# Data Science and Economics
 
-Resources at the interscetion of Data Science and Economics/ Social Science/ Policy
+Resources at the interscetion of Data Science and  Economics/ Social Science/ Policy
 
 ***
 
@@ -25,6 +25,8 @@ Resources at the interscetion of Data Science and Economics/ Social Science/ Pol
 
 ##### Unfortunately many articles are behind paywall now, especially old Bloomberg ones. 
 
+### Field Overview
+
 * [**Breaking the Spell That Grips Economics**](https://bloom.bg/2nH0EV5) *Noah Smith - Bloomberg*
 
 * [**Economics Struggles to Cope With Reality**](https://bloom.bg/2nJWlse) *Noah Smith - Bloomberg*
@@ -44,11 +46,24 @@ Resources at the interscetion of Data Science and Economics/ Social Science/ Pol
 * [**Economics Gets Real**](https://bloom.bg/2nGPlfo) *Noah Smith - Bloomberg*
 
 
+### Practioner Articles
+
+* [**Machine Learning for Decision Making**](http://bit.ly/2DYlJFv) - Emily Glassberg Sands & Duncan Gilchrist
+
+* [**How to Use Machine Learning to Accelerate AB Testing**](http://bit.ly/2DZb4u5) - Emily Glassberg Sands & Duncan Gilchrist
+
+* [**Machine Learning Meets Instrumental Variables**](http://bit.ly/2DZaVXz) - Emily Glassberg Sands & Duncan Gilchrist
+
+* [**Teconomics- Economists in Tech**](https://medium.com/teconomics-blog)
+
+
 *** 
 
 ## Academic Papers <a name="papers"></a>
 
+* [**Beyond Big Data**](http://bit.ly/2E0BRX9) - Hal Varian
 
+* [**Big Data: New Tricks for Econometrics**](http://bit.ly/2DZDLXU) - Hal Varian
 
 
 *** 
@@ -107,4 +122,32 @@ Resources at the interscetion of Data Science and Economics/ Social Science/ Pol
 
 
 ## Economists/Data Scientest <a name="people"></a>
+
+
+### Academics
+
+* [**Matthew Harding**](https://www.socsci.uci.edu/~harding1/) : University of California - Irvine
+
+	* Check the [**Deep Data Lab**](http://deepdatalab.org/)
+
+* [**David Broockman**](https://people.stanford.edu/dbroock/) : Stanford University
+
+* [**Andrew B. Hall**](http://www.andrewbenjaminhall.com/) : Stanford University
+
+### Corporate 
+* [**Emily Glassberg Sands**](https://twitter.com/emilygsands) : Data Science Head @Coursera
+
+ 
+
+
+***
+
+## Syllabus <a name="syllabus"></a>
+
+### Stanford Course 
+
+* [**ECON 45: Using Big Data to Solve Economic and Social Problems**](http://bit.ly/2E21oza) - *Raj Chetty @ Stanford University*
+
+
+* [**Data Science for Politics**](https://www.dropbox.com/s/eqkpyd4cv1uhzjb/Polisci150A_syllabus_Fall17.pdf?dl=0) - Stanford University
 
