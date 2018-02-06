@@ -70,36 +70,36 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 ## Videos/ Lectures <a name="videos"></a>
 
-### Susan Athey
+### Susan Athey - Prof. of Economics @ Stanford Graduate School of Business
 
 * [**How Big Data Is Changing Economies**](http://bit.ly/2E1hYPE) 
 
-* [**Susan Athey: "Machine Learning and Causal Inference for Policy Evaluation"**](http://bit.ly/2nJneMy)
+* [**Machine Learning and Causal Inference for Policy Evaluation**](http://bit.ly/2nJneMy)
 
-* [**Susan Athey: "Machine Learning and Causal Inference for Policy Evaluation"**](http://bit.ly/2nF5a6o)
+	* [**Machine Learning and Causal Inference for Policy Evaluation**](http://bit.ly/2nF5a6o)
 
-* [**Susan Athey, Sackler Big Data Colloquium**](http://bit.ly/2E1gXHk)
+* [**Sackler Big Data Colloquium**](http://bit.ly/2E1gXHk)
 
-* [**Artificial Intelligence: The Economic and Policy Implications - Keynote by Susan Athey**](http://bit.ly/2nF9AKH) 
-
-
-### Hal Varian
+* [**Artificial Intelligence: The Economic and Policy Implications-Keynote**](http://bit.ly/2nF9AKH) 
 
 
-* [**Hal Varian: Google and social science research**](http://bit.ly/2DZ7b8u)
+### Hal Varian - Chief Economist @ Google
 
-* [**Hal Varian, "Using Google Data for Short-term Economic Forecasting"**](http://bit.ly/2DZbAIp) 
 
-* [**Economics & Technology: Careers Blending Two Fields - Hal Varian**](http://bit.ly/2dmxZSK)
+* [**Google and social science research**](http://bit.ly/2DZ7b8u)
+
+* [**Using Google Data for Short-term Economic Forecasting**](http://bit.ly/2DZbAIp) 
+
+* [**Economics & Technology: Careers Blending Two Fields**](http://bit.ly/2dmxZSK)
 
 * [**Data On Purpose | Do Good Data: Casual Inference Meets Big Data**](http://bit.ly/2E178sG)
 
 
-### Sendhil Mullainathan
+### Sendhil Mullainathan - Prof. of Econonmics @ Harvard University
 
-* [**Sendhil Mullainathan: Machine Intelligence and Public Policy**](http://bit.ly/2nH1dhF)
+* [**Machine Intelligence and Public Policy**](http://bit.ly/2nH1dhF)
 
-* [**Sendhil Mullainathan: Machine Learning and Prediction in Economics and Finance**](http://bit.ly/2nGGZEN)
+* [**Machine Learning and Prediction in Economics and Finance**](http://bit.ly/2nGGZEN)
 
 * [**Machine Learning: What's in it for Economics - Playlist**](http://bit.ly/2nHnz2v) *Univ. of Chicago*
 
@@ -107,7 +107,7 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 ### Others
 
-* [**Cosma Shalizi{CMU} - Why Economics Needs Data Mining**](http://bit.ly/2nD1su2) 
+* [**Cosma Shalizi (CMU) - Why Economics Needs Data Mining**](http://bit.ly/2nD1su2) 
 
 * [**Prof. Jeffrey Sachs - The Economics of Artificial Intelligence & Income Distribution**](http://bit.ly/2nH1Zez) 
 
