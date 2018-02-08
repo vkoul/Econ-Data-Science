@@ -95,7 +95,7 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 * [**Data On Purpose | Do Good Data: Casual Inference Meets Big Data**](http://bit.ly/2E178sG)
 
 
-### Sendhil Mullainathan - Prof. of Econonmics @ Harvard University
+### Sendhil Mullainathan - Prof. of Economics @ Harvard University
 
 * [**Machine Intelligence and Public Policy**](http://bit.ly/2nH1dhF)
 
