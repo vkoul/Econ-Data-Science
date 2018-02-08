@@ -105,6 +105,8 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 * [**Machine Learning Meets Economics: Using Theory, Data, and Experiments to Design Markets**](http://bit.ly/2nGGuKV) 
 
+* [**Smarter Algorithms, Better Policy**](http://bit.ly/2BMNGym) 
+
 ### Others
 
 * [**Cosma Shalizi (CMU) - Why Economics Needs Data Mining**](http://bit.ly/2nD1su2) 
