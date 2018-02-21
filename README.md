@@ -150,6 +150,7 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 * [**ECON 45: Using Big Data to Solve Economic and Social Problems**](http://bit.ly/2E21oza) - *Raj Chetty @ Stanford University*
 
+	* [Raj Chetty and team will use data from Facebook to study Inequality in America](http://politi.co/2C9mQ3H)
 
 * [**Data Science for Politics**](https://www.dropbox.com/s/eqkpyd4cv1uhzjb/Polisci150A_syllabus_Fall17.pdf?dl=0) - Stanford University
 
