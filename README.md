@@ -45,6 +45,9 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 * [**Economics Gets Real**](https://bloom.bg/2nGPlfo) *Noah Smith - Bloomberg*
 
+* [**Susan Athey Interview: Applying Machine Learning to the Economy**](http://stanford.io/2oDm31Z) *Stanford GSB*
+
+
 
 ### Practioner Articles
 
