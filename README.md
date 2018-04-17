@@ -49,7 +49,7 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 
 
-### Practioner Articles
+### Practitioner Articles
 
 * [**Machine Learning for Decision Making**](http://bit.ly/2DYlJFv) - Emily Glassberg Sands & Duncan Gilchrist
 
@@ -89,7 +89,6 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 
 ### Hal Varian - Chief Economist @ Google
-
 
 * [**Google and social science research**](http://bit.ly/2DZ7b8u)
 
@@ -141,12 +140,17 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 * [**Andrew B. Hall**](http://www.andrewbenjaminhall.com/) : Stanford University
 
-### Corporate 
+### Industry
+
 * [**Emily Glassberg Sands**](https://twitter.com/emilygsands) : Data Science Head @Coursera
 
+
+* [**Jed Kolko**](http://blog.indeed.com/author/jedkolko/) : Chief Economist @Indeed
+	* [**Indeed Hiring Lab**](http://blog.indeed.com/2017/07/25/introducing-hiringlab-new-site/) 
+
+
+
  
-
-
 ***
 
 ## Syllabus <a name="syllabus"></a>
