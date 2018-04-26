@@ -123,6 +123,8 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 * [**From Economist to Data Scientist: How our discipline can participate in the growth of analytics**](http://bit.ly/2E0hauj)
 
+* [**Human Decisions and Machine Predictions - Jon Kleinberg**](https://mediaspace.gatech.edu/media/Human+Decisions+and+Machine+Predictions+-+Jon+Kleinberg/1_uinz3r4t)
+
 
 *** 
 
@@ -144,10 +146,10 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 * [**Emily Glassberg Sands**](https://twitter.com/emilygsands) : Data Science Head @Coursera
 
-
 * [**Jed Kolko**](http://blog.indeed.com/author/jedkolko/) : Chief Economist @Indeed
 	* [**Indeed Hiring Lab**](http://blog.indeed.com/2017/07/25/introducing-hiringlab-new-site/) 
 
+* [**David H Reiley**](http://davidreiley.com/index.html) : Economist in the advertising-science group @Pandora 
 
 
  
@@ -162,5 +164,9 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 	* [Raj Chetty and team will use data from Facebook to study Inequality in America](http://politi.co/2C9mQ3H)
 	* [Combining satellite imagery and machine learning to predict poverty](http://bit.ly/2oDWgGY)
 
-* [**Data Science for Politics**](https://www.dropbox.com/s/eqkpyd4cv1uhzjb/Polisci150A_syllabus_Fall17.pdf?dl=0) - Stanford University
+* [**Data Science for Politics**](https://www.dropbox.com/s/eqkpyd4cv1uhzjb/Polisci150A_syllabus_Fall17.pdf?dl=0) - *Stanford University*
+
+### Others
+* [**Field Experiments**](http://davidreiley.com/Courses/FieldExperimentsEconomics/FieldExperimentsEconomicsSyllabus.html) - *UC Berkley*
+
 
