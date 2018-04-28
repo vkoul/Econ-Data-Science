@@ -8,7 +8,7 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 # Table of Contents
 
-* [Articles](#articles)
+* [**Articles**](#articles)
 
 * [Academic Papers - TBU](#papers)
 
