@@ -10,13 +10,13 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 * [**Articles**](#articles)
 
-* [Academic Papers - TBU](#papers)
+* [**Academic Papers - TBU**](#papers)
 
-* [Videos/ Lectures](#videos)
+* [**Videos/ Lectures**](#videos)
 
-* [Economists/Data Scientests- TBU](#people)
+* [**Economists/Data Scientists- TBU**](#people)
 
-* [Syllabus- TBU](#syllabus)
+* [**Syllabus- TBU**](#syllabus)
 
 *** 
 
@@ -41,15 +41,20 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 * [**How Economics Went From Theory to Data**](https://bloom.bg/2nG2Xry) *Justin Fox - Bloomberg*
 
-* [**Session with Susan Athey**](http://bit.ly/2nFa1V8) *Susan Athey- Stanford GSB Prof.*
+* [**Quora Session with Susan Athey**](http://bit.ly/2nFa1V8) *Susan Athey- Stanford GSB Prof.*
 
 * [**Economics Gets Real**](https://bloom.bg/2nGPlfo) *Noah Smith - Bloomberg*
 
 * [**Susan Athey Interview: Applying Machine Learning to the Economy**](http://stanford.io/2oDm31Z) *Stanford GSB*
 
+* [**Sexy and Social Data Scientists**](https://www.forbes.com/sites/gilpress/2012/11/24/big-data-news-of-the-week-sexy-and-social-data-scientists/#8a315925aa1e) *Forbes Article*
+
+* [**Micro stars, macro effects**](https://www.economist.com/news/21567079-meet-economists-who-are-making-markets-work-better-micro-stars-macro-effects) *Economist Article- 2012*
 
 
-### Practitioner Articles
+
+
+### Articles by Practitioners 
 
 * [**Machine Learning for Decision Making**](http://bit.ly/2DYlJFv) - Emily Glassberg Sands & Duncan Gilchrist
 
