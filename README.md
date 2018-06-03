@@ -66,6 +66,9 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 * [**Stanford is Using Machine Learning on Satellite Images to Predict Poverty**](http://bit.ly/2oINGH1)
 
+* [**Economic Predictions with Big Data: The Illusion of Sparsity**](http://libertystreeteconomics.newyorkfed.org/2018/05/economic-predictions-with-big-data-the-illusion-of-sparsity.html)
+
+
 
 *** 
 
@@ -134,7 +137,7 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 *** 
 
 
-## Economists/Data Scientest <a name="people"></a>
+## Economists/Data Scientests <a name="people"></a>
 
 
 ### Academics
@@ -149,6 +152,14 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 ### Industry
 
+* Companies like Airbnb, Microsoft and Amazon have huge teams which is filled with Economists
+
+* [**Amazon Economist Jobs**](http://www.amazoneconomistjobs.com/) 
+	* Also check [Economics @ Amazon](https://www.amazon.jobs/en/job_categories/economics)
+
+* [**Microsoft Research: Economics Group**](https://www.microsoft.com/en-us/research/group/microeconomics/)
+
+--------------------------------------------------------------------------------------------------------
 * [**Emily Glassberg Sands**](https://twitter.com/emilygsands) : Data Science Head @Coursera
 
 * [**Jed Kolko**](http://blog.indeed.com/author/jedkolko/) : Chief Economist @Indeed
@@ -156,8 +167,15 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 * [**David H Reiley**](http://davidreiley.com/index.html) : Economist in the advertising-science group @Pandora 
 
+* [**Jacob LaRiviere**](https://www.microsoft.com/en-us/research/people/jlariv/) : Economist @Microsoft
+	
+* [**Dan Goldstein**](http://www.dangoldstein.com/) : Economist @Microsoft- Studies online economic behavior and decision making
 
- 
+* [**Matt Goldman**](http://www.matt-goldman.com/) : Economist @Microsoft- Research interests include Digital Markets, Behavioral Economics, and Theoretical Econometrics
+
+* [**Justin M. Rao**](http://www.justinmrao.com/index.html) : Economist @Microsoft- Member of interdisciplinary research group combining social science with computational and theoretical methods
+
+
 ***
 
 ## Syllabus <a name="syllabus"></a>
@@ -173,5 +191,10 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 
 ### Others
 * [**Field Experiments**](http://davidreiley.com/Courses/FieldExperimentsEconomics/FieldExperimentsEconomicsSyllabus.html) - *UC Berkley*
+
+* [**Industrial Organization and Data Science**](http://www.justinmrao.com/econ404.html)
+
+* [**Data Science for Game Theory and Pricing**](http://www.jacoblariviere.com/econ-487-s18/)
+
 
 
