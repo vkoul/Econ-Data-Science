@@ -1,7 +1,7 @@
 
 # Data Science and Economics
 
-Resources at the interscetion of Data Science and  Economics/ Social Science/ Policy
+Resources at the intersection of Data Science and  Economics/ Social Science/ Policy
 
 ***
 
@@ -73,6 +73,18 @@ Resources at the interscetion of Data Science and  Economics/ Social Science/ Po
 *** 
 
 ## Academic Papers <a name="papers"></a>
+
+#### Journal of Economics Perspective Symposiums
+
+* [**Con out of Economics**](https://www.aeaweb.org/issues/126) - Various papers and authors
+
+* [**Econometrics Tools**](https://www.aeaweb.org/issues/135) - Various papers and authors
+
+* [**Big Data**](https://www.aeaweb.org/issues/336) - Various papers and authors
+
+* [**Recent Ideas in Econometrics**](https://www.aeaweb.org/issues/453) - Various papers and authors
+
+*** 
 
 * [**Beyond Big Data**](http://bit.ly/2E0BRX9) - Hal Varian
 
