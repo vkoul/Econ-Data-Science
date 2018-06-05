@@ -171,21 +171,17 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Microsoft Research: Economics Group**](https://www.microsoft.com/en-us/research/group/microeconomics/)
 
---------------------------------------------------------------------------------------------------------
-* [**Emily Glassberg Sands**](https://twitter.com/emilygsands) : Data Science Head @Coursera
+### Economists at various companies
 
-* [**Jed Kolko**](http://blog.indeed.com/author/jedkolko/) : Chief Economist @Indeed
-	* [**Indeed Hiring Lab**](http://blog.indeed.com/2017/07/25/introducing-hiringlab-new-site/) 
-
-* [**David H Reiley**](http://davidreiley.com/index.html) : Economist in the advertising-science group @Pandora 
-
-* [**Jacob LaRiviere**](https://www.microsoft.com/en-us/research/people/jlariv/) : Economist @Microsoft
-	
-* [**Dan Goldstein**](http://www.dangoldstein.com/) : Economist @Microsoft- Studies online economic behavior and decision making
-
-* [**Matt Goldman**](http://www.matt-goldman.com/) : Economist @Microsoft- Research interests include Digital Markets, Behavioral Economics, and Theoretical Econometrics
-
-* [**Justin M. Rao**](http://www.justinmrao.com/index.html) : Economist @Microsoft- Member of interdisciplinary research group combining social science with computational and theoretical methods
+| Economists                                                                     |    Company    | Comments                       |       
+| -------------------------------------------------------------------------------|:------------- |:-------------------------------|
+| [**Emily Glassberg Sands**](https://twitter.com/emilygsands)                   | Coursera      | Data Science Head              |
+| [**Jed Kolko**](http://blog.indeed.com/author/jedkolko/)                       | Indeed        | Chief Economist                |
+| [**David H Reiley**](http://davidreiley.com/index.html)                        | Pandora       | Economist- Advertising Science |
+| [**Jacob LaRiviere**](https://www.microsoft.com/en-us/research/people/jlariv/) | Microsoft     | Economist                      |
+| [**Dan Goldstein**](http://www.dangoldstein.com/)                              | Microsoft     | Economist                      |
+| [**Matt Goldman**](http://www.matt-goldman.com/)                               | Microsoft     | Economist - Studies online economic behavior and decision making |
+| [**Justin M. Rao**](http://www.justinmrao.com/index.html)                      | Microsoft     | Economist -Member of interdisciplinary research group combining social science with computational and theoretical methods|
 
 
 ***
