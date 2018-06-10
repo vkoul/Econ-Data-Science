@@ -10,13 +10,13 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Articles**](#articles)
 
-* [**Academic Papers - TBU**](#papers)
+* [**Academic Papers**](#papers)
 
 * [**Videos/ Lectures**](#videos)
 
-* [**Economists/Data Scientists- TBU**](#people)
+* [**Economists/Data Scientists**](#people)
 
-* [**Syllabus- TBU**](#syllabus)
+* [**Syllabus**](#syllabus)
 
 *** 
 
@@ -58,7 +58,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Machine Learning for Decision Making**](http://bit.ly/2DYlJFv) - Emily Glassberg Sands & Duncan Gilchrist
 
-* [**How to Use Machine Learning to Accelerate AB Testing**](http://bit.ly/2DZb4u5) - Emily Glassberg Sands & Duncan Gilchrist
+* [**How to Use Machine Learning to Accelerate A/B Testing**](http://bit.ly/2DZb4u5) - Emily Glassberg Sands & Duncan Gilchrist
 
 * [**Machine Learning Meets Instrumental Variables**](http://bit.ly/2DZaVXz) - Emily Glassberg Sands & Duncan Gilchrist
 
@@ -76,7 +76,16 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 #### Journal of Economics Perspective Symposiums
 
-* [**Con out of Economics**](https://www.aeaweb.org/issues/126) - Various papers and authors
+* [**Con out of Economics (Spring 2010)**](https://www.aeaweb.org/issues/126) - Various papers and authors
+	
+	* [**Taking the Dogma out of Econometrics: Structural Modeling and Credible Inference**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.69) - Nevo and Whinston
+
+	* [**But Economics Is Not an Experimental Science**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.59) - C. Sims
+	
+	* [**The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3) - Angrist and Pischke
+
+	* [**A Structural Perspective on the Experimentalist School**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.47) - M.P Keane
+
 
 * [**Econometrics Tools**](https://www.aeaweb.org/issues/135) - Various papers and authors
 
