@@ -100,6 +100,19 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 * [**Big Data: New Tricks for Econometrics**](http://bit.ly/2DZDLXU) - Hal Varian
 
 
+### Susan Athey - Prof. of Economics @ Stanford Graduate School of Business
+
+* [**Economists (and Economics) in Tech Companies**](https://people.stanford.edu/athey/sites/default/files/economists_in_tech.pdf) - Susan Athey
+
+* [**The Impact of Machine Learning on Economics**](http://www.nber.org/chapters/c14009.pdf) - Susan Athey
+
+
+* [**Beyond prediction: Using big data for policy problems**](http://science.sciencemag.org/content/355/6324/483.full?ijkey=wrF0N3wqP3jS2&keytype=ref&siteid=sci) - Susan Athey
+
+* [**Machine Learning Methods for Causal Effects**](http://www.nasonline.org/programs/sackler-colloquia/documents/athey.pdf) - Susan Athey
+
+
+
 *** 
 
 ## Videos/ Lectures <a name="videos"></a>
@@ -205,6 +218,10 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 	* [Combining satellite imagery and machine learning to predict poverty](http://bit.ly/2oDWgGY)
 
 * [**Data Science for Politics**](https://www.dropbox.com/s/eqkpyd4cv1uhzjb/Polisci150A_syllabus_Fall17.pdf?dl=0) - *Stanford University*
+
+* [**Machine Learning and Causal Inference**](https://people.stanford.edu/athey/sites/default/files/phdmlsyllabus.pdf) - *Stanford University*
+
+
 
 ### Others
 * [**Field Experiments**](http://davidreiley.com/Courses/FieldExperimentsEconomics/FieldExperimentsEconomicsSyllabus.html) - *UC Berkley*
