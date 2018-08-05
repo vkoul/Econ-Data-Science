@@ -231,7 +231,6 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 * [**Data Science for Game Theory and Pricing**](http://www.jacoblariviere.com/econ-487-s18/)
 
 * [**Designing the Digital Economy- Yale**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Designing%20the%20Digital%20Economy_Yale_Syllabus.pdf)
-
-* Digitization is transforming a variety of markets from personal transportation services to advertising. This course explores the economic tools (market design, price theory, causal inference, etc.) and technical tools from computer science (machine learning, the analysis of algorithms, user interface design, etc.) students need to contribute meaningfully to this transformation.
+	* Digitization is transforming a variety of markets from personal transportation services to advertising. This course explores the economic tools (market design, price theory, causal inference, etc.) and technical tools from computer science (machine learning, the analysis of algorithms, user interface design, etc.) students need to contribute meaningfully to this transformation.
 
 
