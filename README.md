@@ -10,7 +10,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Articles**](#articles) - Articles exploring the intersection of these two fields
 
-* [**Academic Papers**](#papers) - Reserach papers by Economists/ Statisticians on ML and Economics  
+* [**Academic Papers**](#papers) - Research papers by Economists/ Statisticians on ML and Economics  
 
 * [**Videos/ Lectures**](#videos) - Lectures given by Economists on ML/ Data Science
 
@@ -62,23 +62,19 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 
 
-
-
-
-
 ### Articles by Practitioners 
 
-* [**Teconomics- Economists in Tech**](https://medium.com/teconomics-blog) - Emily Glassberg Sands & Duncan Gilchrist
+* [**Teconomics- Economists in Tech**](https://medium.com/teconomics-blog) - *Emily Glassberg Sands & Duncan Gilchrist*
 
-	* [**Machine Learning for Decision Making**](http://bit.ly/2DYlJFv) - Emily Glassberg Sands & Duncan Gilchrist
+	* [**Machine Learning for Decision Making**](http://bit.ly/2DYlJFv) - *Emily Glassberg Sands & Duncan Gilchrist*
 
-	* [**How to Use Machine Learning to Accelerate A/B Testing**](http://bit.ly/2DZb4u5) - Emily Glassberg Sands & Duncan Gilchrist
+	* [**How to Use Machine Learning to Accelerate A/B Testing**](http://bit.ly/2DZb4u5) - *Emily Glassberg Sands & Duncan Gilchrist*
 
-	* [**Machine Learning Meets Instrumental Variables**](http://bit.ly/2DZaVXz) - Emily Glassberg Sands & Duncan Gilchrist
+	* [**Machine Learning Meets Instrumental Variables**](http://bit.ly/2DZaVXz) - *Emily Glassberg Sands & Duncan Gilchrist*
 
-* [**Stanford is Using Machine Learning on Satellite Images to Predict Poverty**](http://bit.ly/2oINGH1)- Analytics Vidhya
+* [**Stanford is Using Machine Learning on Satellite Images to Predict Poverty**](http://bit.ly/2oINGH1)- *Analytics Vidhya*
 
-* [**Economic Predictions with Big Data: The Illusion of Sparsity**](http://libertystreeteconomics.newyorkfed.org/2018/05/economic-predictions-with-big-data-the-illusion-of-sparsity.html) - NY Federal Reserve
+* [**Economic Predictions with Big Data: The Illusion of Sparsity**](http://libertystreeteconomics.newyorkfed.org/2018/05/economic-predictions-with-big-data-the-illusion-of-sparsity.html) - *NY Federal Reserve*
 
 
 
@@ -88,15 +84,15 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 #### Journal of Economics Perspective Symposiums
 
-* [**Con out of Economics (Spring 2010)**](https://www.aeaweb.org/issues/126) - Various papers and authors
+* [**Con out of Economics (Spring 2010)**](https://www.aeaweb.org/issues/126)
 	
-	* [**Taking the Dogma out of Econometrics: Structural Modeling and Credible Inference**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.69) - Nevo and Whinston
+	* [**Taking the Dogma out of Econometrics: Structural Modeling and Credible Inference**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.69) - *Nevo and Whinston*
 
-	* [**But Economics Is Not an Experimental Science**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.59) - C. Sims
+	* [**But Economics Is Not an Experimental Science**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.59) - *C. Sims*
 	
-	* [**The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3) - Angrist and Pischke
+	* [**The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3) - *Angrist and Pischke*
 
-	* [**A Structural Perspective on the Experimentalist School**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.47) - M.P Keane
+	* [**A Structural Perspective on the Experimentalist School**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.47) - *M.P Keane*
 
 
 * [**Econometrics Tools**](https://www.aeaweb.org/issues/135) - Various papers and authors
@@ -107,27 +103,25 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 *** 
 
-* [**Beyond Big Data**](http://bit.ly/2E0BRX9) - Hal Varian
+* [**Beyond Big Data**](http://bit.ly/2E0BRX9) - *Hal Varian*
 
-* [**Big Data: New Tricks for Econometrics**](http://bit.ly/2DZDLXU) - Hal Varian
+* [**Big Data: New Tricks for Econometrics**](http://bit.ly/2DZDLXU) - *Hal Varian*
 
 
 ### Susan Athey Papers- Prof. of Economics @ Stanford Graduate School of Business
 
-* [**Economists (and Economics) in Tech Companies**](https://people.stanford.edu/athey/sites/default/files/economists_in_tech.pdf) - Susan Athey
+* [**Economists (and Economics) in Tech Companies**](https://people.stanford.edu/athey/sites/default/files/economists_in_tech.pdf) 
 
-* [**The Impact of Machine Learning on Economics**](http://www.nber.org/chapters/c14009.pdf) - Susan Athey
+* [**The Impact of Machine Learning on Economics**](http://www.nber.org/chapters/c14009.pdf)
 
+* [**Beyond prediction: Using big data for policy problems**](http://science.sciencemag.org/content/355/6324/483.full?ijkey=wrF0N3wqP3jS2&keytype=ref&siteid=sci)
 
-* [**Beyond prediction: Using big data for policy problems**](http://science.sciencemag.org/content/355/6324/483.full?ijkey=wrF0N3wqP3jS2&keytype=ref&siteid=sci) - Susan Athey
-
-* [**Machine Learning Methods for Causal Effects**](http://www.nasonline.org/programs/sackler-colloquia/documents/athey.pdf) - Susan Athey
-
+* [**Machine Learning Methods for Causal Effects**](http://www.nasonline.org/programs/sackler-colloquia/documents/athey.pdf)
 
 
 *** 
 
-## Videos/ Lectures <a name="videos"></a>
+## Videos/Lectures <a name="videos"></a>
 
 ### Susan Athey Videos - Prof. of Economics @ Stanford Graduate School of Business
 
@@ -167,18 +161,17 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 ### Other Videos
 
-* [**Cosma Shalizi (CMU) - Why Economics Needs Data Mining**](http://bit.ly/2nD1su2) 
+* [**Why Economics Needs Data Mining**](http://bit.ly/2nD1su2) *Cosma Shalizi(CMU)* 
 
-* [**Prof. Jeffrey Sachs - The Economics of Artificial Intelligence & Income Distribution**](http://bit.ly/2nH1Zez) 
+* [**The Economics of Artificial Intelligence & Income Distribution**](http://bit.ly/2nH1Zez) *Jeffrey Sachs*
+
+* [**Human Decisions and Machine Predictions**](https://mediaspace.gatech.edu/media/Human+Decisions+and+Machine+Predictions+-+Jon+Kleinberg/1_uinz3r4t) *Jon Kleinberg (Cornell)*
 
 * [**The Challenge of Big Data for the Social Sciences**](http://bit.ly/2E3sIg8)
 
 * [**Data Science from the Perspective of an Applied Economist**](http://bit.ly/2DZ778J) 
 
 * [**From Economist to Data Scientist: How our discipline can participate in the growth of analytics**](http://bit.ly/2E0hauj)
-
-* [**Human Decisions and Machine Predictions - Jon Kleinberg**](https://mediaspace.gatech.edu/media/Human+Decisions+and+Machine+Predictions+-+Jon+Kleinberg/1_uinz3r4t)
-
 
 *** 
 
@@ -188,13 +181,13 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 ### Academics
 
-* [**Matthew Harding**](https://www.socsci.uci.edu/~harding1/) : University of California - Irvine
+* [**Matthew Harding**](https://www.socsci.uci.edu/~harding1/) : *University of California - Irvine*
 
 	* Check the [**Deep Data Lab**](http://deepdatalab.org/)
 
-* [**David Broockman**](https://people.stanford.edu/dbroock/) : Stanford University
+* [**David Broockman**](https://people.stanford.edu/dbroock/) : *Stanford University*
 
-* [**Andrew B. Hall**](http://www.andrewbenjaminhall.com/) : Stanford University
+* [**Andrew B. Hall**](http://www.andrewbenjaminhall.com/) : *Stanford University*
 
 ### Industry
 
@@ -240,7 +233,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 
 
-### Others
+### Other Courses
 * [**Data Analysis for Social Scientists**](https://www.edx.org/course/data-analysis-for-social-scientists-0)- *MITx*
 
 * [**Field Experiments**](http://davidreiley.com/Courses/FieldExperimentsEconomics/FieldExperimentsEconomicsSyllabus.html) - *UC Berkley*
