@@ -233,8 +233,6 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 ## Syllabus <a name="syllabus"></a>
 
-### Stanford Courses 
-
 * [**Machine Learning and Econometrics (Susan Athey, Guido Imbens)**](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) - *Stanford University* 
 	* There are videos and course material available
 	* [Course Material](https://drive.google.com/drive/folders/1SEEOMluxBcSAb_tsDYgcLFtOQaeWtkLp) 
@@ -247,20 +245,19 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Data Science for Politics**](https://www.dropbox.com/s/eqkpyd4cv1uhzjb/Polisci150A_syllabus_Fall17.pdf?dl=0) - *Stanford University*
 
-* [**Machine Learning and Causal Inference**](https://people.stanford.edu/athey/sites/default/files/phdmlsyllabus.pdf) - *Stanford University*
+* [**Machine Learning and Causal Inference**](https://people.stanford.edu/athey/sites/default/files/phdmlsyllabus.pdf) - *Susan Athey @ Stanford University*
 
+* [**Big Data**](http://dan.bjorkegren.com/bigdata/) - *Daniel Bjorkegren @ Brown University*
 
+* [**Data Analysis for Social Scientists**](https://www.edx.org/course/data-analysis-for-social-scientists-0)- *Esther Duflo & Sara Fisher @ MITx*
 
-### Other Courses
-* [**Data Analysis for Social Scientists**](https://www.edx.org/course/data-analysis-for-social-scientists-0)- *MITx*
+* [**Field Experiments**](http://davidreiley.com/Courses/FieldExperimentsEconomics/FieldExperimentsEconomicsSyllabus.html) - *David Reiley @ UC Berkley*
 
-* [**Field Experiments**](http://davidreiley.com/Courses/FieldExperimentsEconomics/FieldExperimentsEconomicsSyllabus.html) - *UC Berkley*
+* [**Industrial Organization and Data Science**](http://www.justinmrao.com/econ404.html) - *Justin Rao @ Microsoft*
 
-* [**Industrial Organization and Data Science**](http://www.justinmrao.com/econ404.html) - *Microsoft*
+* [**Data Science for Game Theory and Pricing**](http://www.jacoblariviere.com/econ-487-s18/) - *Jacob @ Microsoft*
 
-* [**Data Science for Game Theory and Pricing**](http://www.jacoblariviere.com/econ-487-s18/) - *Microsoft*
-
-* [**Designing the Digital Economy**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Designing%20the%20Digital%20Economy_Yale_Syllabus.pdf) - *Yale*
+* [**Designing the Digital Economy**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Designing%20the%20Digital%20Economy_Yale_Syllabus.pdf) - *Glen Weyl @ Yale*
 	* Digitization is transforming a variety of markets from personal transportation services to advertising. This course explores the economic tools (market design, price theory, causal inference, etc.) and technical tools from computer science (machine learning, the analysis of algorithms, user interface design, etc.) students need to contribute meaningfully to this transformation.
 
 
