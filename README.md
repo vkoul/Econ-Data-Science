@@ -84,6 +84,33 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 #### Journal of Economics Perspective Symposiums
 
+* [**Recent Ideas in Econometrics (Spring 2017)**](https://www.aeaweb.org/issues/453)
+
+	* [**The State of Applied Econometrics: Causality and Policy Evaluation**](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.3) - *Susan Athey & Guido W. Imbens*
+
+	* [**Machine Learning: An Applied Econometric Approach**](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87) - *Sendhil Mullainathan & Jann Spiess*
+
+	* [**The Use of Structural Models in Econometrics**](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.33) - *Hamish Low & Costas Meghir*
+
+	* [**Twenty Years of Time Series Econometrics in Ten Pictures**](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.59) - *James H. Stock & Mark W. Watson*
+
+	* [**Identification and Asymptotic Approximations: Three Examples of Progress in Econometric Theory**](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.107) - *James L. Powell*
+
+
+
+* [**Big Data (Spring 2014)**](https://www.aeaweb.org/issues/336)
+
+	* [**Big Data: New Tricks for Econometrics**](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.3) - *Hal Varian*
+
+	* [**High-Dimensional Methods and Inference on Structural and Treatment Effects**](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.29) - *Alexandre Belloni, Victor Chernozhukov, Christian Hansen*
+
+	* [**Political Campaigns and Big Data**](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.51) - *David W. Nickerson & Todd Rogers*
+
+	* [**Privacy and Data-Based Research**](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.75) - *Ori Heffetz & Katrina Ligett*
+
+
+* [**Econometrics Tools (Fall 2011)**](https://www.aeaweb.org/issues/135) - *Various papers and authors*
+
 * [**Con out of Economics (Spring 2010)**](https://www.aeaweb.org/issues/126)
 	
 	* [**Taking the Dogma out of Econometrics: Structural Modeling and Credible Inference**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.69) - *Nevo and Whinston*
@@ -94,18 +121,9 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 	* [**A Structural Perspective on the Experimentalist School**](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.47) - *M.P Keane*
 
-
-* [**Econometrics Tools**](https://www.aeaweb.org/issues/135) - Various papers and authors
-
-* [**Big Data**](https://www.aeaweb.org/issues/336) - Various papers and authors
-
-* [**Recent Ideas in Econometrics**](https://www.aeaweb.org/issues/453) - Various papers and authors
-
-*** 
+***
 
 * [**Beyond Big Data**](http://bit.ly/2E0BRX9) - *Hal Varian*
-
-* [**Big Data: New Tricks for Econometrics**](http://bit.ly/2DZDLXU) - *Hal Varian*
 
 
 ### Susan Athey Papers- Prof. of Economics @ Stanford Graduate School of Business
