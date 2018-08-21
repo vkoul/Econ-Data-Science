@@ -59,6 +59,9 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Are current trends in econ methodology just fads?**](http://noahpinionblog.blogspot.com/2016/11/are-current-trends-in-econ-methodology.html) *Noah Smith*
 
+* [**Two Cousins Meet**](https://www.thinkpragati.com/think/4850/two-cousins-meet/) *Avinash Tripathi*
+
+* [**Causal Inference and Machine Learning**](http://times.tinbergen.nl/causal-inference-and-machine-learning/) *Guido Imbens*
 
 
 
