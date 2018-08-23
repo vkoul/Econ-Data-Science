@@ -210,6 +210,10 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Andrew B. Hall**](http://www.andrewbenjaminhall.com/) : *Stanford University*
 
+* [**Ariel Procaccia**](http://procaccia.info/) : *Carnegie Mellon University*
+
+
+
 ### Industry
 
 * Companies like Airbnb, Microsoft and Amazon have huge teams which is filled with Economists
