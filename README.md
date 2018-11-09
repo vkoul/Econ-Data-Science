@@ -45,6 +45,13 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Economics Gets Real**](https://bloom.bg/2nGPlfo) *Noah Smith - Bloomberg*
 
+* [**Hunting for a Hot Job in High Tech? Try 'Digitization Economist**](https://hbswk.hbs.edu/item/looking-for-a-hot-job-in-high-tech-try-digitization-economist?cid=wk-sm-tw-sf94301720&sf94301720=1) *Roberta Holland - Working Knowledge*
+
+* [**Uber’s secret weapon is its team of economists**](https://qz.com/1367800/ubernomics-is-ubers-semi-secret-internal-economics-department/) *Alison Griswold - Quartz*
+
+* [**Why Uber Is an Economist’s Dream**](http://freakonomics.com/podcast/uber-economists-dream/) *Stephen J. Dubner - Freakonomics*
+
+
 * [**Susan Athey Interview: Applying Machine Learning to the Economy**](http://stanford.io/2oDm31Z) *Stanford GSB*
 
 * [**Sexy and Social Data Scientists**](https://www.forbes.com/sites/gilpress/2012/11/24/big-data-news-of-the-week-sexy-and-social-data-scientists/#8a315925aa1e) *Forbes Article*
