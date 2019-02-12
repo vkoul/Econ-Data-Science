@@ -219,6 +219,9 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Ariel Procaccia**](http://procaccia.info/) : *Carnegie Mellon University*
 
+* [**Dario Sansone**](https://sites.google.com/view/dariosansone/home?authuser=0) : *Phd Candidate Georgetown University*
+	* Dario has compiled an [informative list on ML and Economics](https://sites.google.com/view/dariosansone/resources/machine-learning?authuser=0)
+
 
 
 ### Industry
@@ -259,6 +262,8 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Data Science for Politics**](https://www.dropbox.com/s/eqkpyd4cv1uhzjb/Polisci150A_syllabus_Fall17.pdf?dl=0) - *Stanford University*
 
+* [**Machine Learning and Data Science in Politics**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Machine%20Learning%20and%20Data%20Science%20in%20Politics%20Syllabus_MIT.pdf) - *In Song Kim @ MIT*
+
 * [**Machine Learning and Causal Inference**](https://people.stanford.edu/athey/sites/default/files/phdmlsyllabus.pdf) - *Susan Athey @ Stanford University*
 
 * [**Big Data**](http://dan.bjorkegren.com/bigdata/) - *Daniel Bjorkegren @ Brown University*
@@ -273,5 +278,8 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Designing the Digital Economy**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Designing%20the%20Digital%20Economy_Yale_Syllabus.pdf) - *Glen Weyl @ Yale*
 	* Digitization is transforming a variety of markets from personal transportation services to advertising. This course explores the economic tools (market design, price theory, causal inference, etc.) and technical tools from computer science (machine learning, the analysis of algorithms, user interface design, etc.) students need to contribute meaningfully to this transformation.
+
+* [**Enviornmental Economics and Data Science**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Enviormental%20Economics%20and%20Data%20Science_syllabus.pdf) - *Grant McDermott @ University of Oregon*
+	* [Lectures](https://github.com/uo-ec607/lectures)	
 
 
