@@ -199,7 +199,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**The Challenge of Big Data for the Social Sciences**](http://bit.ly/2E3sIg8) *Kenneth Benoit, Kenneth Cukier*
 
-* [**Data Science from the Perspective of an Applied Economist**](http://bit.ly/2DZ778J) 
+* [**Data Science from the Perspective of an Applied Economist**](http://bit.ly/2DZ778J) *Scott Nicholson*
 
 * [**From Economist to Data Scientist: How our discipline can participate in the growth of analytics**](http://bit.ly/2E0hauj) *Kenneth Sanford*
 
