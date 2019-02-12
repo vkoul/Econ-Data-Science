@@ -191,15 +191,17 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Why Economics Needs Data Mining**](http://bit.ly/2nD1su2) *Cosma Shalizi(CMU)* 
 
+* [**Machinistas meet Randomistas: useful ML tools for Empirical Researchers**](https://vimeo.com/283711883) *Esther Duflo*
+
 * [**The Economics of Artificial Intelligence & Income Distribution**](http://bit.ly/2nH1Zez) *Jeffrey Sachs*
 
 * [**Human Decisions and Machine Predictions**](https://mediaspace.gatech.edu/media/Human+Decisions+and+Machine+Predictions+-+Jon+Kleinberg/1_uinz3r4t) *Jon Kleinberg (Cornell)*
 
-* [**The Challenge of Big Data for the Social Sciences**](http://bit.ly/2E3sIg8)
+* [**The Challenge of Big Data for the Social Sciences**](http://bit.ly/2E3sIg8) *Kenneth Benoit, Kenneth Cukier*
 
 * [**Data Science from the Perspective of an Applied Economist**](http://bit.ly/2DZ778J) 
 
-* [**From Economist to Data Scientist: How our discipline can participate in the growth of analytics**](http://bit.ly/2E0hauj)
+* [**From Economist to Data Scientist: How our discipline can participate in the growth of analytics**](http://bit.ly/2E0hauj) *Kenneth Sanford*
 
 *** 
 
