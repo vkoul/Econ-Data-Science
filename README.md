@@ -252,6 +252,12 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 ## Syllabus <a name="syllabus"></a>
 
+* MIT has started a new Major for Undergraduates. The Program aims to impart students skills from Data Science and Economics
+	* [News Announcement](http://news.mit.edu/2017/mit-creates-new-major-computer-science-economics-data-science-0904)
+	* [Economics 6-14: Course Overview](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-14-computer-science-economics-and-data-science)
+	* [Course Content](https://github.com/vkoul/Economics-and-Data-Science/blob/master/MIT_computer-science-economics-data-science-course-6-14.pdf)
+
+
 * [**Machine Learning and Econometrics (Susan Athey, Guido Imbens)**](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) - *Stanford University* 
 	* There are videos and course material available
 	* [Course Material](https://drive.google.com/drive/folders/1SEEOMluxBcSAb_tsDYgcLFtOQaeWtkLp) 
