@@ -229,6 +229,8 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 * [**Dario Sansone**](https://sites.google.com/view/dariosansone/home?authuser=0) : *Phd Candidate Georgetown University*
 	* Dario has compiled an [informative list on ML and Economics](https://sites.google.com/view/dariosansone/resources/machine-learning?authuser=0)
 
+* [**Soubhik Barari**](https://soubhikbarari.github.io/) : *Harvard University*
+
 
 
 ### Industry
@@ -282,6 +284,9 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 * [**Big Data**](http://dan.bjorkegren.com/bigdata/) - *Daniel Bjorkegren @ Brown University*
 
 * [**Data Analysis for Social Scientists**](https://www.edx.org/course/data-analysis-for-social-scientists-0)- *Esther Duflo & Sara Fisher @ MITx*
+
+* [**R-Based High Performance Computing for Social Science**](https://github.com/soubhikbarari/MIT-HPC)- *Soubhik Barari @ MIT*
+
 
 * [**Field Experiments**](http://davidreiley.com/Courses/FieldExperimentsEconomics/FieldExperimentsEconomicsSyllabus.html) - *David Reiley @ UC Berkley*
 
