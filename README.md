@@ -86,6 +86,11 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Economic Predictions with Big Data: The Illusion of Sparsity**](http://libertystreeteconomics.newyorkfed.org/2018/05/economic-predictions-with-big-data-the-illusion-of-sparsity.html) - *NY Federal Reserve*
 
+* [**Refining the “science” of political science (MIT)**](https://polisci.mit.edu/news/2018/refining-science-political-science)- *MIT PolSc*
+
+	* [**Political Methodology Lab**](https://pmlab.mit.edu/)- *MIT PolSc*
+
+
 
 
 *** 
