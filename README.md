@@ -300,4 +300,8 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 * [**Enviornmental Economics and Data Science**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Enviormental%20Economics%20and%20Data%20Science_syllabus.pdf) - *Grant McDermott @ University of Oregon*
 	* [Lectures](https://github.com/uo-ec607/lectures)	
 
+* [**Data for Sustainable Development**](http://web.stanford.edu/class/cs325b/index.html) - *Marshall Burke, Stefano Ermon, David Lobell @ Stanford University*
+	* The sustainable development goals (SDGs) encompass many important aspects of human and ecosystem well-being that are traditionally difficult to measure. This project-based course will focus on ways to use inexpensive, unconventional data streams to measure outcomes relevant to SDGs, including poverty, hunger, health, governance, and economic activity. Students will apply machine learning techniques to various projects outlined at the beginning of the quarter
+	* [Projects](http://web.stanford.edu/class/cs325b/projects.html)
+
 
