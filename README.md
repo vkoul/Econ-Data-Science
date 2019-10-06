@@ -1,5 +1,5 @@
 
-# Data Science and Economics
+# Data Science and Economics :chart_with_upwards_trend: :computer:
 
 Resources at the intersection of Data Science and  Economics/ Social Science/ Policy
 
@@ -8,20 +8,20 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 # Table of Contents
 
-* [**Articles**](#articles) - Articles exploring the intersection of these two fields
+*  :page_facing_up: [**Articles**](#articles) - Articles exploring the intersection of these two fields
 
-* [**Academic Papers**](#papers) - Research papers by Economists/ Statisticians on ML and Economics  
+* :clipboard:[**Academic Papers**](#papers) - Research papers by Economists/ Statisticians on ML and Economics  
 
-* [**Videos/ Lectures**](#videos) - Lectures given by Economists on ML/ Data Science
+* :tv: [**Videos/ Lectures**](#videos) - Lectures given by Economists on ML/ Data Science
 
-* [**Economists/Data Scientists**](#people) - Economists working as Data Scientests in Industry and Academia
+* :woman: :man: [**Economists/Data Scientists**](#people) - Economists working as Data Scientests in Industry and Academia
 
-* [**Courses & Syllabus**](#syllabus) - Syllabus and courses which are at the intersection of Data Science and Economics
+*  :mortar_board: [**Courses & Syllabus**](#syllabus) - Syllabus and courses which are at the intersection of Data Science and Economics
 
 *** 
 
 
-## Articles <a name="articles"></a>
+## Articles <a name="articles"></a> :page_facing_up:
 
 ##### Unfortunately many articles are behind paywall now, especially old Bloomberg ones. 
 
@@ -95,7 +95,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 *** 
 
-## Academic Papers <a name="papers"></a>
+## Academic Papers <a name="papers"></a> :clipboard:
 
 #### Journal of Economics Perspective Symposiums
 
@@ -154,7 +154,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 *** 
 
-## Videos/Lectures <a name="videos"></a>
+## Videos/Lectures <a name="videos"></a> :tv:
 
 ### Susan Athey Videos - Prof. of Economics @ Stanford Graduate School of Business
 
@@ -211,7 +211,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 *** 
 
 
-## Economists/Data Scientests <a name="people"></a>
+## Economists/Data Scientests <a name="people"></a> :woman: :man:
 
 
 ### Academics
@@ -257,7 +257,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 ***
 
-## Syllabus <a name="syllabus"></a>
+## Syllabus <a name="syllabus"></a>  :mortar_board:
 
 * MIT has started a new Major for Undergraduates. The Program aims to impart students skills from Data Science and Economics
 	* [News Announcement](http://news.mit.edu/2017/mit-creates-new-major-computer-science-economics-data-science-0904)
