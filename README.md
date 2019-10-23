@@ -102,8 +102,8 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 ## Academic Papers <a name="papers"></a> :clipboard:
 
-<details><summary>CLICK ME</summary>
-<p>
+<details>
+<summary>CLICK ME</summary>
 
 #### Journal of Economics Perspective Symposiums
 
@@ -159,15 +159,15 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Machine Learning Methods for Causal Effects**](http://www.nasonline.org/programs/sackler-colloquia/documents/athey.pdf)
 
-</p>
+
 </details>
 
 *** 
 
 ## Videos/Lectures <a name="videos"></a> :tv:
 
-<details><summary>CLICK ME</summary>
-<p>
+<details>
+<summary>CLICK ME</summary>
 
 ### Susan Athey Videos - Prof. of Economics @ Stanford Graduate School of Business
 
@@ -221,7 +221,6 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**From Economist to Data Scientist: How our discipline can participate in the growth of analytics**](http://bit.ly/2E0hauj) *Kenneth Sanford*
 
-</p>
 </details>
 
 *** 
@@ -229,8 +228,8 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 ## Economists/Data Scientests <a name="people"></a> :woman: :man:
 
-<details><summary>CLICK ME</summary>
-<p>
+<details>
+<summary>CLICK ME</summary>
 
 
 ### Academics
@@ -263,7 +262,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 ### Economists at various companies
 
-| Economists                                                                     |    Company    | Comments                       |       
+| Economists                                                                     |    Company    | Comments                       | 
 | -------------------------------------------------------------------------------|:------------- |:-------------------------------|
 | [**Emily Glassberg Sands**](https://twitter.com/emilygsands)                   | Coursera      | Data Science Head              |
 | [**Jed Kolko**](http://blog.indeed.com/author/jedkolko/)                       | Indeed        | Chief Economist                |
@@ -273,15 +272,14 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 | [**Matt Goldman**](http://www.matt-goldman.com/)                               | Microsoft     | Economist - Studies online economic behavior and decision making |
 | [**Justin M. Rao**](http://www.justinmrao.com/index.html)                      | Microsoft     | Economist -Member of interdisciplinary research group combining social science with computational and theoretical methods|
 
-</p>
 </details>
 
 ***
 
 ## Syllabus <a name="syllabus"></a>  :mortar_board:
 
-<details><summary>CLICK ME</summary>
-<p>
+<details>
+<summary>CLICK ME</summary>
 
 
 * MIT has started a new Major for Undergraduates. The Program aims to impart students skills from Data Science and Economics
@@ -330,7 +328,6 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 	* [Syllabus](https://github.com/vkoul/Economics-and-Data-Science/blob/master/DDI%20class%20syllabus.pdf)
 	* [Projects](http://web.stanford.edu/class/cs325b/projects.html)
 
-</p>
 </details>
 
 *** 
