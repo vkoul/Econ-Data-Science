@@ -262,7 +262,8 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 ### Economists at various companies
 
-| Economists                                                                     |    Company    | Comments                       | 
+
+| Economist                                                                      |    Company    | Comment                        |
 | -------------------------------------------------------------------------------|:------------- |:-------------------------------|
 | [**Emily Glassberg Sands**](https://twitter.com/emilygsands)                   | Coursera      | Data Science Head              |
 | [**Jed Kolko**](http://blog.indeed.com/author/jedkolko/)                       | Indeed        | Chief Economist                |
