@@ -8,7 +8,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 # Table of Contents
 
-*  :page_facing_up: [**Articles**](#articles) - Articles exploring the intersection of these two fields
+* :page_facing_up: [**Articles**](#articles) - Articles exploring the intersection of these two fields
 
 * :clipboard:[**Academic Papers**](#papers) - Research papers by Economists/ Statisticians on ML and Economics  
 
@@ -16,15 +16,16 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * :woman: :man: [**Economists/Data Scientists**](#people) - Economists working as Data Scientests in Industry and Academia
 
-*  :mortar_board: [**Courses & Syllabus**](#syllabus) - Syllabus and courses which are at the intersection of Data Science and Economics
+* :mortar_board: [**Courses & Syllabus**](#syllabus) - Syllabus and courses which are at the intersection of Data Science and Economics
 
 *** 
 
 
 ## Articles <a name="articles"></a> :page_facing_up:
 
-<details><summary>CLICK ME</summary>
-<p>
+<details>
+<summary>CLICK ME</summary>
+
 
 ##### Unfortunately many articles are behind paywall now, especially old Bloomberg ones. 
 
@@ -93,7 +94,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 	* [**Political Methodology Lab**](https://pmlab.mit.edu/)- *MIT PolSc*
 
-</p>
+
 </details>
 
 
