@@ -352,3 +352,8 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
 
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
