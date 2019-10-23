@@ -226,7 +226,7 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 *** 
 
 
-## Economists/Data Scientests <a name="people"></a> :woman: :man:
+## Economists/Data Scientists <a name="people"></a> :woman: :man:
 
 <details>
 <summary>CLICK ME</summary>
