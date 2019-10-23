@@ -23,6 +23,9 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 ## Articles <a name="articles"></a> :page_facing_up:
 
+<details><summary>CLICK ME</summary>
+<p>
+
 ##### Unfortunately many articles are behind paywall now, especially old Bloomberg ones. 
 
 ### Field Overview
@@ -90,12 +93,16 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 	* [**Political Methodology Lab**](https://pmlab.mit.edu/)- *MIT PolSc*
 
-
+</p>
+</details>
 
 
 *** 
 
 ## Academic Papers <a name="papers"></a> :clipboard:
+
+<details><summary>CLICK ME</summary>
+<p>
 
 #### Journal of Economics Perspective Symposiums
 
@@ -151,10 +158,15 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Machine Learning Methods for Causal Effects**](http://www.nasonline.org/programs/sackler-colloquia/documents/athey.pdf)
 
+</p>
+</details>
 
 *** 
 
 ## Videos/Lectures <a name="videos"></a> :tv:
+
+<details><summary>CLICK ME</summary>
+<p>
 
 ### Susan Athey Videos - Prof. of Economics @ Stanford Graduate School of Business
 
@@ -208,10 +220,15 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**From Economist to Data Scientist: How our discipline can participate in the growth of analytics**](http://bit.ly/2E0hauj) *Kenneth Sanford*
 
+</p>
+</details>
 *** 
 
 
 ## Economists/Data Scientests <a name="people"></a> :woman: :man:
+
+<details><summary>CLICK ME</summary>
+<p>
 
 
 ### Academics
@@ -254,10 +271,15 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 | [**Matt Goldman**](http://www.matt-goldman.com/)                               | Microsoft     | Economist - Studies online economic behavior and decision making |
 | [**Justin M. Rao**](http://www.justinmrao.com/index.html)                      | Microsoft     | Economist -Member of interdisciplinary research group combining social science with computational and theoretical methods|
 
-
+</p>
+</details>
 ***
 
 ## Syllabus <a name="syllabus"></a>  :mortar_board:
+
+<details><summary>CLICK ME</summary>
+<p>
+
 
 * MIT has started a new Major for Undergraduates. The Program aims to impart students skills from Data Science and Economics
 	* [News Announcement](http://news.mit.edu/2017/mit-creates-new-major-computer-science-economics-data-science-0904)
@@ -305,6 +327,8 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 	* [Syllabus](https://github.com/vkoul/Economics-and-Data-Science/blob/master/DDI%20class%20syllabus.pdf)
 	* [Projects](http://web.stanford.edu/class/cs325b/projects.html)
 
+</p>
+</details>
 ----
 Made with :heart: by Vikesh. Say Hi!:wave:
 [Twitter :bird:](https://twitter.com/vikesh_koul)
