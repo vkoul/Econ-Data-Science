@@ -273,6 +273,20 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 | [**Matt Goldman**](http://www.matt-goldman.com/)                               | Microsoft     | Economist - Studies online economic behavior and decision making |
 | [**Justin M. Rao**](http://www.justinmrao.com/index.html)                      | Microsoft     | Economist -Member of interdisciplinary research group combining social science with computational and theoretical methods|
 
+
+| P | Q | P * Q |
+| - | - | - |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
+
+
+|A|B|C|AA|
+| --- | --- | --- | --- |
+|Q|W   |    E | RR     |
+
+
 </details>
 
 ***
