@@ -274,17 +274,12 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 | [**Justin M. Rao**](http://www.justinmrao.com/index.html)                      | Microsoft     | Economist -Member of interdisciplinary research group combining social science with computational and theoretical methods|
 
 
-| P | Q | P * Q |
-| - | - | - |
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
 
-
-|A|B|C|AA|
-| --- | --- | --- | --- |
-|Q|W   |    E | RR     |
 
 
 </details>
@@ -352,8 +347,3 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
 
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
