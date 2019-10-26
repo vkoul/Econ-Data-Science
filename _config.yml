@@ -7,6 +7,4 @@ description: Resources at the intersection of Economics and Data Science
 plugins:
   - jemoji
   
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+markdown: CommonMarkGhPages
