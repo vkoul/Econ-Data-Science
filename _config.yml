@@ -1,6 +1,12 @@
 theme: jekyll-theme-cayman
 
+title: Economics and Data Science :chart_with_upwards_trend: :computer:
+
+description: Resources at the intersection of Economics and Data Science
+
 plugins:
   - jemoji
   
 markdown: kramdown
+kramdown:
+  parse_block_html: true
