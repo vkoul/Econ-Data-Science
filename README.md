@@ -3,6 +3,10 @@
 
 Resources at the intersection of Data Science and  Economics/ Social Science/ Policy
 
+Made with :heart: by Vikesh. Say Hi!:wave:
+[Twitter :bird:](https://twitter.com/vikesh_koul)
+[Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
+
 ***
 
 
@@ -333,7 +337,3 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 </details>
 
 *** 
-
-Made with :heart: by Vikesh. Say Hi!:wave:
-[Twitter :bird:](https://twitter.com/vikesh_koul)
-[Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
