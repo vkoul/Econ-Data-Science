@@ -8,6 +8,9 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
 
 ***
+|A|B|C|AA|
+| --- | --- | --- | --- |
+|Q|W   |    E | RR     |
 
 
 # Table of Contents
@@ -30,6 +33,9 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 <details>
 <summary>CLICK ME</summary>
 
+|A|B|C|AA|
+| --- | --- | --- | --- |
+|Q|W   |    E | RR     |
 
 ##### Unfortunately many articles are behind paywall now, especially old Bloomberg ones. 
 
