@@ -264,7 +264,8 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 
 * [**Microsoft Research: Economics Group**](https://www.microsoft.com/en-us/research/group/microeconomics/)
 
-### Economists at various companies
+### Economists at various companies  
+
 
 
 | Economist                                                                      |    Company    | Comment                        |
