@@ -17,7 +17,7 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 
 * :tv: [**Videos/ Lectures**](#videos) - Lectures given by Economists on ML/ Data Science
 
-* :woman: :man: [**Economists/Data Scientists**](#people) - Economists working as Data Scientests in Industry and Academia
+* :woman: :man: [**Economists/Data Scientists**](#people) - Economists working as Data Scientists in Industry and Academia
 
 * :mortar_board: [**Courses & Syllabus**](#syllabus) - Syllabus and courses which are at the intersection of Data Science and Economics
 
