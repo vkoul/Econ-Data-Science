@@ -2,13 +2,9 @@
 layout: default
 ---
 
-# Economics and Data Science :chart_with_upwards_trend: :computer:
-
-Resources at the intersection of Economics and Data Science
-
-Made with :heart: by Vikesh. Say Hi!:wave:
-[Twitter :bird:](https://twitter.com/vikesh_koul)
-[Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
+#### Made with :heart: by Vikesh. Say Hi!:wave:
+#### [Twitter :bird:](https://twitter.com/vikesh_koul)
+#### [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
 
 ***
 
