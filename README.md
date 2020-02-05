@@ -12,6 +12,10 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 | --- | --- | --- | --- |
 |Q|W   |    E | RR     |
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 # Table of Contents
 
