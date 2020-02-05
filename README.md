@@ -1,7 +1,7 @@
 
-# Data Science and Economics :chart_with_upwards_trend: :computer:
+# Economics and Data Science :chart_with_upwards_trend: :computer:
 
-Resources at the intersection of Data Science and  Economics/ Social Science/ Policy
+Resources at the intersection of Economics and Data Science
 
 Made with :heart: by Vikesh. Say Hi!:wave:
 [Twitter :bird:](https://twitter.com/vikesh_koul)
