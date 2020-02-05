@@ -1,7 +1,3 @@
----
-layout: default
----
-
 
 # Economics and Data Science :chart_with_upwards_trend: :computer:
 
