@@ -240,9 +240,6 @@ layout: default
 
 ## Economists/Data Scientists <a name="people"></a> :woman: :man:
 
-<details>
-<summary>CLICK ME</summary>
-
 
 ### Academics
 
@@ -287,7 +284,6 @@ layout: default
 | [**Justin M. Rao**](http://www.justinmrao.com/index.html)                      | Microsoft     | Economist -Member of interdisciplinary research group combining social science with computational and theoretical methods|
 
 
-</details>
 
 ***
 
