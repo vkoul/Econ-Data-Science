@@ -5,8 +5,4 @@ title: "Econ Data Science"
 plugins:
   - jemoji
   
-markdown: CommonMarkGhPages
-CommonMarkGhPages:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-
 # added extension to enable the table rendering- however its not working as of now (5 Feb,2020)
