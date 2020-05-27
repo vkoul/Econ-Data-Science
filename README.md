@@ -7,6 +7,19 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 [Twitter :bird:](https://twitter.com/vikesh_koul)
 [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
 
+| P | Q | P * Q |
+| - | - | - |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
+
+
+|A|B|C|AA|
+| --- | --- | --- | --- |
+|Q|W   |    E | RR     |
+
+
 ***
 
 # Table of Contents
