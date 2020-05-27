@@ -37,7 +37,7 @@ layout: default
 ## Articles <a name="articles"></a> :page_facing_up:
 
 <details>
-<summary>CLICK ME</summary>
+
 
 ##### Unfortunately many articles are behind paywall now, especially old Bloomberg ones. 
 
