@@ -20,6 +20,19 @@ layout: default
 
 *** 
 
+| P | Q | P * Q |
+| - | - | - |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
+
+
+|A|B|C|AA|
+| --- | --- | --- | --- |
+|Q|W   |    E | RR     |
+
+
 
 ## Articles <a name="articles"></a> :page_facing_up:
 
@@ -260,7 +273,7 @@ layout: default
 * [**Microsoft Research: Economics Group**](https://www.microsoft.com/en-us/research/group/microeconomics/)
 
 ### Economists at various companies  
-
+&nbsp;
 
 
 | Economist                                                                      |    Company    | Comment                        |
