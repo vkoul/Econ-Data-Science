@@ -20,24 +20,9 @@ layout: default
 
 *** 
 
-| P | Q | P * Q |
-| - | - | - |
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
-
-
-|A|B|C|AA|
-| --- | --- | --- | --- |
-|Q|W   |    E | RR     |
-
-
-
 ## Articles <a name="articles"></a> :page_facing_up:
 
 <details>
-
 
 ##### Unfortunately many articles are behind paywall now, especially old Bloomberg ones. 
 
@@ -115,7 +100,6 @@ layout: default
 ## Academic Papers <a name="papers"></a> :clipboard:
 
 <details>
-<summary>CLICK ME</summary>
 
 #### Journal of Economics Perspective Symposiums
 
@@ -179,7 +163,6 @@ layout: default
 ## Videos/Lectures <a name="videos"></a> :tv:
 
 <details>
-<summary>CLICK ME</summary>
 
 ### Susan Athey Videos - Prof. of Economics @ Stanford Graduate School of Business
 
@@ -240,6 +223,7 @@ layout: default
 
 ## Economists/Data Scientists <a name="people"></a> :woman: :man:
 
+<details>
 
 ### Academics
 
@@ -283,15 +267,13 @@ layout: default
 | [**Matt Goldman**](http://www.matt-goldman.com/)                               | Microsoft     | Economist - Studies online economic behavior and decision making |
 | [**Justin M. Rao**](http://www.justinmrao.com/index.html)                      | Microsoft     | Economist -Member of interdisciplinary research group combining social science with computational and theoretical methods|
 
-
+</details>
 
 ***
 
 ## Syllabus <a name="syllabus"></a>  :mortar_board:
 
 <details>
-<summary>CLICK ME</summary>
-
 
 * MIT has started a new Major for Undergraduates. The Program aims to impart students skills from Data Science and Economics
 	* [News Announcement](http://news.mit.edu/2017/mit-creates-new-major-computer-science-economics-data-science-0904)
