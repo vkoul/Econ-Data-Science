@@ -9,6 +9,9 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-CommonMarkGhPages:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-# added extension to enable the table rendering- however its not working as of now (5 Feb,2020)
+# Change Notes:
+# changed markdown generator from CommonMarkGhPages to kramdown to render the tables properly. Although CommonMarkGhpages worked nicely with collapsible section. It was ineffective for the tables. 
+# source: 
+# added "parse_block_html" so that the collapsible sections are rendered properly
+  # also removed summary tag from collapsible section as HTML can't read display and summary tags togther. 
+  # Sourrce: https://github.com/gettalong/kramdown/issues/155#issuecomment-339714578
