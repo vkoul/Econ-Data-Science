@@ -5,8 +5,8 @@ title: "Econ Data Science"
 plugins:
   - jemoji
   
-markdown: kramdown
-kramdown:
+markdown: CommonMarkGhPages
+CommonMarkGhPages:
   parse_block_html: true
 
 CommonMarkGhPages:
