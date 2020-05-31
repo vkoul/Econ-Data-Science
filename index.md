@@ -225,37 +225,19 @@ layout: default
 
 <details>
 
-### Academics
-
-* [**Matthew Harding**](https://www.socsci.uci.edu/~harding1/) : *University of California - Irvine*
-
-	* Check the [**Deep Data Lab**](http://deepdatalab.org/)
-
-* [**David Broockman**](https://people.stanford.edu/dbroock/) : *Stanford University*
-
-* [**Andrew B. Hall**](http://www.andrewbenjaminhall.com/) : *Stanford University*
-
-* [**Ariel Procaccia**](http://procaccia.info/) : *Carnegie Mellon University*
-
-* [**Dario Sansone**](https://sites.google.com/view/dariosansone/home?authuser=0) : *Phd Candidate Georgetown University*
-	* Dario has compiled an [informative list on ML and Economics](https://sites.google.com/view/dariosansone/resources/machine-learning?authuser=0)
-
-* [**Soubhik Barari**](https://soubhikbarari.github.io/) : *Harvard University*
+### Academia :school:
+| Person 	| Affiliation 	| Comments 	|
+|-	|-	|-	|
+| [**Matthew   Harding**](https://www.socsci.uci.edu/~harding1/) 	| University of   California - Irvine 	| Check the [**Deep   Data Lab**](http://deepdatalab.org/) 	|
+| [**David   Broockman**](https://people.stanford.edu/dbroock/) 	| Stanford 	| - 	|
+| [**Andrew B.   Hall**](http://www.andrewbenjaminhall.com/) 	| Stanford 	| - 	|
+| [**Ariel   Procaccia**](http://procaccia.info/) 	| CMU 	| - 	|
+| [**Dario   Sansone**](https://sites.google.com/view/dariosansone/home?authuser=0) 	| Georgetown University 	| Dario has compiled an   [informative list on ML and   Economics](https://sites.google.com/view/dariosansone/resources/machine-learning?authuser=0) 	|
+| [**Soubhik   Barari**](https://soubhikbarari.github.io/) 	| Harvard University 	| - 	|
 
 
-
-### Industry
-
-* Companies like Airbnb, Microsoft and Amazon have huge teams which is filled with Economists
-
-* [**Amazon Economist Jobs**](http://www.amazoneconomistjobs.com/) 
-	* Also check [Economics @ Amazon](https://www.amazon.jobs/en/job_categories/economics)
-
-* [**Microsoft Research: Economics Group**](https://www.microsoft.com/en-us/research/group/microeconomics/)
-
-### Economists at various companies  
+### Industry :office:
 &nbsp;
-
 
 | Economist                                                                      |    Company    | Comment                        |
 | -------------------------------------------------------------------------------|:------------- |:-------------------------------|
@@ -267,6 +249,16 @@ layout: default
 | [**Matt Goldman**](http://www.matt-goldman.com/)                               | Microsoft     | Economist - Studies online economic behavior and decision making |
 | [**Justin M. Rao**](http://www.justinmrao.com/index.html)                      | Microsoft     | Economist -Member of interdisciplinary research group combining social science with computational and theoretical methods|
 
+
+* Companies like Airbnb, Microsoft and Amazon have huge teams which is filled with Economists
+
+* [**Amazon Economist Jobs**](http://www.amazoneconomistjobs.com/) 
+	* Also check [Economics @ Amazon](https://www.amazon.jobs/en/job_categories/economics)
+
+* [**Microsoft Research: Economics Group**](https://www.microsoft.com/en-us/research/group/microeconomics/)
+
+
+
 </details>
 
 ***
@@ -275,7 +267,7 @@ layout: default
 
 <details>
 
-| Final                                                                                                                                                                                                 	| Type             	| Institution          	| Prof                                          	| Detail type                                    	|
+| Course/Degree                                                                                                                                                                                                	| Type             	| Institution          	| Prof                                          	| Detail type                                    	|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------	|----------------------	|-----------------------------------------------	|------------------------------------------	|
 | [**M.S.   Economics &   Computation**](https://econ.duke.edu/masters-programs/degree-programs/msec)                                                                                                   	| Masters Degree   	| Duke                 	| -                                             	| :newspaper_roll:                         	|
 | [**Computer   Science , Economics and Data   Science**](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-14-computer-science-economics-and-data-science)                        	| Bachelors Degree 	| MIT                  	| -                                             	| :newspaper_roll:                         	|
