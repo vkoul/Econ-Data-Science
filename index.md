@@ -321,8 +321,6 @@ layout: default
 	* [Syllabus](https://github.com/vkoul/Economics-and-Data-Science/blob/master/DDI%20class%20syllabus.pdf)
 	* [Projects](http://web.stanford.edu/class/cs325b/projects.html)
 
-</details>
-
 | Final                                                                                                                                                                                                 	| Type             	| Institution          	| Prof                                          	| Detail type                                    	|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------	|----------------------	|-----------------------------------------------	|------------------------------------------	|
 | [**M.S.   Economics &   Computation**](https://econ.duke.edu/masters-programs/degree-programs/msec)                                                                                                   	| Masters Degree   	| Duke                 	| -                                             	| :newspaper_roll:                         	|
@@ -341,4 +339,5 @@ layout: default
 | [**Enviornmental   Economics and Data   Science**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Enviormental%20Economics%20and%20Data%20Science_syllabus.pdf)                      	| Course           	| University of Oregon 	| Grant McDermott                               	| :bookmark_tabs:                          	|
 | [**Designing   the Digital   Economy**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Designing%20the%20Digital%20Economy_Yale_Syllabus.pdf)                                        	| Course           	| Yale                 	| Glen Weyl                                     	| :bookmark_tabs:                          	|
 
+</details>
 *** 
