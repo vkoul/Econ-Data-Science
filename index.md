@@ -226,6 +226,9 @@ layout: default
 <details>
 
 ### Academia :school:
+&nbsp;
+
+
 | Person 	| Affiliation 	| Comments 	|
 |-	|-	|-	|
 | [**Matthew   Harding**](https://www.socsci.uci.edu/~harding1/) 	| University of   California - Irvine 	| Check the [**Deep   Data Lab**](http://deepdatalab.org/) 	|
