@@ -12,11 +12,11 @@ layout: default
 
 * :clipboard:[**Academic Papers**](#papers) - Research papers by Economists/ Statisticians on ML and Economics  
 
-* :tv: [**Videos/ Lectures**](#videos) - Lectures given by Economists on ML/ Data Science
+* :tv: [**Videos / Lectures**](#videos) - Lectures given by Economists on ML/ Data Science
 
-* :woman: :man: [**Economists/Data Scientists**](#people) - Economists working as Data Scientists in Industry and Academia
+* :woman: :man: [**Economists / Data Scientists**](#people) - Economists working as Data Scientists in Industry and Academia
 
-* :mortar_board: [**Courses & Syllabus**](#syllabus) - Syllabus and courses which are at the intersection of Data Science and Economics
+* :mortar_board: [**Program / Courses**](#syllabus) - Syllabus and courses which are at the intersection of Data Science and Economics
 
 *** 
 
@@ -322,5 +322,23 @@ layout: default
 	* [Projects](http://web.stanford.edu/class/cs325b/projects.html)
 
 </details>
+
+| Final                                                                                                                                                                                                 	| Type             	| Institution          	| Prof                                          	| Detail type                                    	|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------	|----------------------	|-----------------------------------------------	|------------------------------------------	|
+| [**M.S.   Economics &   Computation**](https://econ.duke.edu/masters-programs/degree-programs/msec)                                                                                                   	| Masters Degree   	| Duke                 	| -                                             	| :newspaper_roll:                         	|
+| [**Computer   Science , Economics and Data   Science**](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-14-computer-science-economics-and-data-science)                        	| Bachelors Degree 	| MIT                  	| -                                             	| :newspaper_roll:                         	|
+| [**Machine   Learning and Data Science in   Politics**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Machine%20Learning%20and%20Data%20Science%20in%20Politics%20Syllabus_MIT.pdf) 	| Course           	| MIT                  	| In Song Kim                                   	| :bookmark_tabs:                          	|
+| [**Data   Analysis for Social   Scientists**](https://www.edx.org/course/data-analysis-for-social-scientists-0)                                                                                       	| Course           	| MIT                  	| Esther Duflo &   Sara Fisher                  	| :bookmark_tabs:   :computer: :open_book: 	|
+| [**R-Based   High Performance Computing for Social   Science**](https://github.com/soubhikbarari/MIT-HPC)                                                                                             	| Course           	| MIT                  	| Soubhik Barari                                	| :bookmark_tabs:                          	|
+| [**Data   Science for   Politics**](https://www.dropbox.com/s/eqkpyd4cv1uhzjb/Polisci150A_syllabus_Fall17.pdf?dl=0)                                                                                   	| Course           	| Stanford             	|                                               	| :bookmark_tabs:                          	|
+| [**Machine   Learning and Causal   Inference**](https://people.stanford.edu/athey/sites/default/files/phdmlsyllabus.pdf)                                                                              	| Course           	| Stanford             	| Susan Athey                                   	| :bookmark_tabs:                          	|
+| [**Data for   Sustainable Development**](http://web.stanford.edu/class/cs325b/index.html)                                                                                                             	| Course           	| Stanford             	| Marshall Burke,   Stefano Ermon, David Lobell 	| :bookmark_tabs:                          	|
+| [**Big   Data**](http://dan.bjorkegren.com/bigdata/)                                                                                                                                                  	| Course           	| Brown                	| Daniel Bjorkegren                             	| :bookmark_tabs:                          	|
+| [**Using Big   Data to Solve Economic and Social   Problems**](https://opportunityinsights.org/course/)                                                                                               	| Course           	| Harvard              	| Raj Chetty                                    	| :bookmark_tabs:   :computer: :open_book: 	|
+| [**Industrial   Organization and Data Science**](http://www.justinmrao.com/econ404.html)                                                                                                              	| Course           	| Microsoft            	| Justin Rao                                    	| :bookmark_tabs:                          	|
+| [**Data   Science for Game Theory and   Pricing**](http://www.jacoblariviere.com/econ-487-s18/)                                                                                                       	| Course           	| Microsoft            	| Jacob                                         	| :bookmark_tabs:                          	|
+| [**Machine   Learning and   Econometrics**](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)                                                                                                  	| Course           	| Stanford/Berkley     	| Susan Athey, Guido   Imbens                   	| :bookmark_tabs:   :computer: :open_book: 	|
+| [**Enviornmental   Economics and Data   Science**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Enviormental%20Economics%20and%20Data%20Science_syllabus.pdf)                      	| Course           	| University of Oregon 	| Grant McDermott                               	| :bookmark_tabs:                          	|
+| [**Designing   the Digital   Economy**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Designing%20the%20Digital%20Economy_Yale_Syllabus.pdf)                                        	| Course           	| Yale                 	| Glen Weyl                                     	| :bookmark_tabs:                          	|
 
 *** 
