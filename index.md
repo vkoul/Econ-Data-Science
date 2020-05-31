@@ -271,55 +271,9 @@ layout: default
 
 ***
 
-## Syllabus <a name="syllabus"></a>  :mortar_board:
+## Courses/ Degrees <a name="syllabus"></a>  :mortar_board:
 
 <details>
-
-* MIT has started a new Major for Undergraduates. The Program aims to impart students skills from Data Science and Economics
-	* [News Announcement](http://news.mit.edu/2017/mit-creates-new-major-computer-science-economics-data-science-0904)
-	* [Economics 6-14: Course Overview](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-14-computer-science-economics-and-data-science)
-	* [Course Content](https://github.com/vkoul/Economics-and-Data-Science/blob/master/MIT_computer-science-economics-data-science-course-6-14.pdf)
-
-
-* [**Machine Learning and Econometrics (Susan Athey, Guido Imbens)**](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) - *Stanford University* 
-	* There are videos and course material available
-	* [Course Material](https://drive.google.com/drive/folders/1SEEOMluxBcSAb_tsDYgcLFtOQaeWtkLp) 
-
-
-* [**ECON 45: Using Big Data to Solve Economic and Social Problems**](http://bit.ly/2E21oza) - *Raj Chetty @ Stanford University*
-
-	* [Raj Chetty and team will use data from Facebook to study Inequality in America](http://politi.co/2C9mQ3H)
-	* [Combining satellite imagery and machine learning to predict poverty](http://bit.ly/2oDWgGY)
-
-* [**Data Science for Politics**](https://www.dropbox.com/s/eqkpyd4cv1uhzjb/Polisci150A_syllabus_Fall17.pdf?dl=0) - *Stanford University*
-
-* [**Machine Learning and Data Science in Politics**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Machine%20Learning%20and%20Data%20Science%20in%20Politics%20Syllabus_MIT.pdf) - *In Song Kim @ MIT*
-
-* [**Machine Learning and Causal Inference**](https://people.stanford.edu/athey/sites/default/files/phdmlsyllabus.pdf) - *Susan Athey @ Stanford University*
-
-* [**Big Data**](http://dan.bjorkegren.com/bigdata/) - *Daniel Bjorkegren @ Brown University*
-
-* [**Data Analysis for Social Scientists**](https://www.edx.org/course/data-analysis-for-social-scientists-0)- *Esther Duflo & Sara Fisher @ MITx*
-
-* [**R-Based High Performance Computing for Social Science**](https://github.com/soubhikbarari/MIT-HPC)- *Soubhik Barari @ MIT*
-
-
-* [**Field Experiments**](http://davidreiley.com/Courses/FieldExperimentsEconomics/FieldExperimentsEconomicsSyllabus.html) - *David Reiley @ UC Berkley*
-
-* [**Industrial Organization and Data Science**](http://www.justinmrao.com/econ404.html) - *Justin Rao @ Microsoft*
-
-* [**Data Science for Game Theory and Pricing**](http://www.jacoblariviere.com/econ-487-s18/) - *Jacob @ Microsoft*
-
-* [**Designing the Digital Economy**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Designing%20the%20Digital%20Economy_Yale_Syllabus.pdf) - *Glen Weyl @ Yale*
-	* Digitization is transforming a variety of markets from personal transportation services to advertising. This course explores the economic tools (market design, price theory, causal inference, etc.) and technical tools from computer science (machine learning, the analysis of algorithms, user interface design, etc.) students need to contribute meaningfully to this transformation.
-
-* [**Enviornmental Economics and Data Science**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Enviormental%20Economics%20and%20Data%20Science_syllabus.pdf) - *Grant McDermott @ University of Oregon*
-	* [Lectures](https://github.com/uo-ec607/lectures)	
-
-* [**Data for Sustainable Development**](http://web.stanford.edu/class/cs325b/index.html) - *Marshall Burke, Stefano Ermon, David Lobell @ Stanford University*
-	* The sustainable development goals (SDGs) encompass many important aspects of human and ecosystem well-being that are traditionally difficult to measure. This project-based course will focus on ways to use inexpensive, unconventional data streams to measure outcomes relevant to SDGs, including poverty, hunger, health, governance, and economic activity. Students will apply machine learning techniques to various projects outlined at the beginning of the quarter
-	* [Syllabus](https://github.com/vkoul/Economics-and-Data-Science/blob/master/DDI%20class%20syllabus.pdf)
-	* [Projects](http://web.stanford.edu/class/cs325b/projects.html)
 
 | Final                                                                                                                                                                                                 	| Type             	| Institution          	| Prof                                          	| Detail type                                    	|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------	|----------------------	|-----------------------------------------------	|------------------------------------------	|
@@ -340,4 +294,3 @@ layout: default
 | [**Designing   the Digital   Economy**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Designing%20the%20Digital%20Economy_Yale_Syllabus.pdf)                                        	| Course           	| Yale                 	| Glen Weyl                                     	| :bookmark_tabs:                          	|
 
 </details>
-*** 
