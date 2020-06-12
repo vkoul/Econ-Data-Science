@@ -1,5 +1,5 @@
 
-# Economics and Data Science :chart_with_upwards_trend: :computer:
+# Economics and Data Science :chart_with_upwards_trend:  :computer:
 
 Resources at the intersection of Economics and Data Science
 
