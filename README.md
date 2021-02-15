@@ -1,9 +1,13 @@
+![GitHub forks](https://img.shields.io/github/forks/vkoul/Econ-Data-Science?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/vkoul/Econ-Data-Science?style=for-the-badge)
+[![HitCount](http://hits.dwyl.com/vkoul/Econ-Data-Science.svg)](http://hits.dwyl.com/vkoul/Econ-Data-Science)
+
 
 # Economics and Data Science :chart_with_upwards_trend:  :computer:
 
-Resources at the intersection of Economics and Data Science [![HitCount](http://hits.dwyl.com/vkoul/Econ-Data-Science.svg)](http://hits.dwyl.com/vkoul/Econ-Data-Science)
+Resources at the intersection of Economics and Data Science 
+Made with :heart: by Vikesh. Say Hi!:wave: 
 
-Made with :heart: by Vikesh. Say Hi!:wave:
 ![Twitter Follow](https://img.shields.io/twitter/follow/vikesh_koul?style=social)
 [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
 
