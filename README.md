@@ -13,17 +13,10 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 
 ***
 
-# Table of Contents
+|:page_facing_up: [**Articles**](#articles) - Articles exploring the intersection of these two fields | :clipboard:[**Academic Papers**](#papers) - Research papers by Economists/ Statisticians on ML and Economics   	| :tv: [**Videos/ Lectures**](#videos) - Lectures given by Economists on ML/ Data Science|
+|---	|---	|---	|
+| :woman: :man: [**Economists/Data Scientists**](#people) - Economists working as Data Scientists in Industry and Academia |:mortar_board: [**Courses & Syllabus**](#syllabus) - Syllabus and courses which are at the intersection of Data Science and Economics |  
 
-* :page_facing_up: [**Articles**](#articles) - Articles exploring the intersection of these two fields
-
-* :clipboard:[**Academic Papers**](#papers) - Research papers by Economists/ Statisticians on ML and Economics  
-
-* :tv: [**Videos/ Lectures**](#videos) - Lectures given by Economists on ML/ Data Science
-
-* :woman: :man: [**Economists/Data Scientists**](#people) - Economists working as Data Scientists in Industry and Academia
-
-* :mortar_board: [**Courses & Syllabus**](#syllabus) - Syllabus and courses which are at the intersection of Data Science and Economics
 
 *** 
 
