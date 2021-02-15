@@ -8,9 +8,8 @@
 Resources at the intersection of Economics and Data Science 
 Made with :heart: by Vikesh. Say Hi!:wave: 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/vikesh_koul?style=social)  
-[Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
-
+![Twitter Follow](https://img.shields.io/twitter/follow/vikesh_koul?style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikeshkoul/)](https://www.linkedin.com/in/vikeshkoul/)
 
 ***
 
