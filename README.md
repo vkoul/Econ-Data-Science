@@ -5,10 +5,10 @@
 # Economics and Data Science :chart_with_upwards_trend:  :computer:
 
 Resources at the intersection of Economics and Data Science   
-Made with :heart: by Vikesh. Say Hi :wave:
+Made with :heart: by Vikesh.   
+Say Hi :wave:
 ![Twitter Follow](https://img.shields.io/twitter/follow/vikesh_koul?style=social)
 [![Linkedin: vikeshkoul](https://img.shields.io/badge/-Vikesh%20Koul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikeshkoul/)](https://www.linkedin.com/in/vikeshkoul/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikeshkoul@gmail.com)](mailto:vikeshkoul@gmail.com)  
 
 ***
 
