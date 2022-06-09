@@ -237,6 +237,7 @@ layout: default
 | [**Ariel   Procaccia**](http://procaccia.info/) 	| CMU 	| - 	|
 | [**Dario   Sansone**](https://sites.google.com/view/dariosansone/home?authuser=0) 	| Georgetown University 	| Dario has compiled an   [informative list on ML and   Economics](https://sites.google.com/view/dariosansone/resources/machine-learning?authuser=0) 	|
 | [**Soubhik   Barari**](https://soubhikbarari.github.io/) 	| Harvard University 	| - 	|
+| [**Matteo Courthoud**](https://matteocourthoud.github.io/) | University of Zurich 	| Matteo has very good teaching resources on his website	|
 
 
 ### Industry :office:
@@ -286,6 +287,6 @@ layout: default
 | [**Data   Science for Game Theory and   Pricing**](http://www.jacoblariviere.com/econ-487-s18/)                                                                                                       	| Course           	| Microsoft            	| Jacob                                         	| :bookmark_tabs:                          	|
 | [**Machine   Learning and   Econometrics**](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)                                                                                                  	| Course           	| Stanford/Berkley     	| Susan Athey, Guido   Imbens                   	| :bookmark_tabs:   :computer: :open_book: 	|
 | [**Enviornmental   Economics and Data   Science**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Enviormental%20Economics%20and%20Data%20Science_syllabus.pdf)                      	| Course           	| University of Oregon 	| Grant McDermott                               	| :bookmark_tabs:                          	|
-| [**Designing   the Digital   Economy**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Designing%20the%20Digital%20Economy_Yale_Syllabus.pdf)                                        	| Course           	| Yale                 	| Glen Weyl                                     	| :bookmark_tabs:                          	|
+| [**Designing   the Digital   Economy**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Designing%20the%20Digital%20Economy_Yale_Syllabus.pdf)                                        	| Course           	| Yale                 	| Glen Weyl                                     	| :bookmark_tabs:     | [**Machine Learning for Economics**](https://matteocourthoud.github.io/course/ml-econ/)                                                                                                  	| Course Notes         	| University of Zurich     	| Matteo Courthoud/ Damian Kozbur                 	| :bookmark_tabs:|
 
 </details>
