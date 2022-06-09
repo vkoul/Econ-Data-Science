@@ -329,3 +329,8 @@ Say Hi :wave:
 </details>
 
 *** 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=vkoul/Econ-Data-Science&type=Date)](https://star-history.com/#vkoul/Econ-Data-Science&Date)
+
